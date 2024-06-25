@@ -5,7 +5,7 @@
 ### Projects
 
 ## Identifying Changes in Late Woodland Ceramic Traditions 
-As a senior honors thesis, I used cluster analysis to examine changes over time in prehistoric ceramics from the Maumee River Valley, dated from 969-1658 CE. Cluster assignment was used in building models to identify key characteristics that distinguish earlier and later styles. <br>
+Senior honors thesis using cluster analysis to examine changes over time in prehistoric ceramics from the Maumee River Valley, dated from 969-1658 CE. Cluster assignment further used in building models to identify key characteristics that distinguish earlier and later styles. <br>
 <br>
 <br>
 <img src="images/thesis_graphs2.png?raw=true"/> 
@@ -18,19 +18,11 @@ R Code available on request
 
 ---
 ## Political Scripts in Twitter Conversations about the COVID-19 Pandemic
-I scraped and cleaned large amounts of Twitter data to examine sentiment and specific word usage among Twitter users in the early days of the COVID-19 pandemic. Results were compared between politicians and laypeople to identify trends in political messaging.
-
----
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Scraped and cleaned large amounts of Twitter data to examine sentiment and specific word usage among Twitter users in the early days of the COVID-19 pandemic. Results were compared between politicians and laypeople to identify trends in political messaging. Presented at 2022 meeting of the Society for Personality and Social Psychology.
+<br<br><br>
+<img src="images/ps-images.png?raw=true"/>
+<br>
+[View poster presentation](/pdf/SPSP-Poster.pdf)
 
 ---
 
