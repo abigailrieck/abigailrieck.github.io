@@ -23,7 +23,9 @@ Scraped and cleaned large amounts of Twitter data to examine sentiment and speci
 [View poster presentation](/pdf/SPSP-Poster.pdf)
 
 ---
-
+### Predicting Board Game Ratings
+Project attempting to create a linear regression model predicting user board game ratings from various game characteristics. <br>
+[View project on GitHub](https://github.com/abigailrieck/board-game-project)
 
 
 
