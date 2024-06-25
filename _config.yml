@@ -8,6 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   [View my LinkedIn Profile](www.linkedin.com/in/abigail-rieck-7626531b9)
   <a href="www.linkedin.com/in/abigail-rieck-7626531b9">View My LinkedIn Profile</a> 
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
