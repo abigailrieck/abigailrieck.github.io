@@ -4,7 +4,8 @@
 
 ### Projects
 
-[Senior Honors Thesis]
+##Senior Honors Thesis
+Using cluster analysis to examine changes in prehistoric ceramics from the Maumee River Valley, dated from 969-1658 CE. 
 <img src="images/piecharts.png?raw=true"/>
 <img src="images/violin.png?raw=true"/>
 
