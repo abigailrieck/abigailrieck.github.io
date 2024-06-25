@@ -2,10 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Senior Honors Thesis]
+<img src="images/piecharts.png?raw=true"/>
+<img src="images/violin.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
