@@ -8,6 +8,7 @@
 <br>
 Using cluster analysis to examine changes over time in prehistoric ceramics from the Maumee River Valley, dated from 969-1658 CE. <br>
 <br>
+<br>
 <img src="images/violin.png?raw=true"/> 
 
 <img src="images/piecharts.png?raw=true"/> <br/>
