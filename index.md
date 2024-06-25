@@ -10,7 +10,7 @@ Using cluster analysis to examine changes over time in prehistoric ceramics from
 <br>
 <img src="images/violin.png?raw=true"/> 
 
-<img src="images/piecharts.png?raw=true"/> <br/>
+<img src="images/tsne.png?raw=true"/> <br/>
 <br>
 
 [View full thesis pdf](/pdf/Thesis.pdf)
