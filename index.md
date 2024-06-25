@@ -12,7 +12,7 @@ Using cluster analysis to examine changes over time in prehistoric ceramics from
 
 <br>
 
-[View full thesis pdf](/pdf/Thesis.pdf)
+[View full thesis pdf](/pdf/Thesis.pdf) <br>
 R Code available on request
 
 ---
