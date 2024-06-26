@@ -12,7 +12,7 @@ Senior honors thesis using cluster analysis to examine changes over time in preh
 
 [View poster presentation](/pdf/Honors-poster.pdf) | 
 [View full thesis pdf](/pdf/Thesis.pdf) <br>
-R Code available on request
+R code available on request
 
 ---
 ### Political Scripts in Twitter Conversations about the COVID-19 Pandemic
@@ -20,7 +20,8 @@ Scraped and cleaned large amounts of Twitter data to examine sentiment and speci
 <br><br>
 <img src="images/ps-images.png?raw=true"/>
 <br>
-[View poster presentation](/pdf/SPSP-Poster.pdf)
+[View poster presentation](/pdf/SPSP-Poster.pdf) <br>
+R code available on request
 
 ---
 ### Predicting Board Game Ratings
