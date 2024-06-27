@@ -21,7 +21,7 @@ Scraped and cleaned large amounts of Twitter data to examine sentiment and speci
 <img src="images/ps-images.png?raw=true"/>
 <br>
 [View poster presentation](/pdf/SPSP-Poster.pdf) <br>
-R code available on request
+
 
 ---
 ### Predicting Board Game Ratings
