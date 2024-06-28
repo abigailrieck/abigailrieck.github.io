@@ -29,7 +29,10 @@ Project attempting to create a linear regression model predicting user board gam
 [View project on GitHub](https://github.com/abigailrieck/board-game-project)
 
 
-
+---
+### 8-Week SQL Challenge (in progress)
+Working through some of the case studies presented by Data With Danny at 8weeksqlchallenge.com in order to practice my SQL abilities in a variety of business contexts. Challenges include data wrangling and financial analyses across multiple contexts. <br>
+[View my solutions on GitHub](https://github.com/abigailrieck/abigailrieck.github.io/tree/master/project-files/8-week-sql-challenge)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
